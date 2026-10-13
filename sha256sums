@@ -1,2 +1,3 @@
-df1b46c02fefb612a3cd67b1b8d41c859e74ec0a4e19796619e0de71eef15e94  /tmp/opencode/vendor_boot-rhode-5.15.img
-72c7cbae95d6afcbdf596606392cd29cd1cf436c4e717887ba4278791e000063  /tmp/opencode/dtbo-rhode-stock.img
+72c7cbae95d6afcbdf596606392cd29cd1cf436c4e717887ba4278791e000063  dtbo.img
+df1b46c02fefb612a3cd67b1b8d41c859e74ec0a4e19796619e0de71eef15e94  vendor_boot.img
+54027bcb2f4cb8aa392217b37a363f09d50ce4548f8874332bd606097808c7fd  vendor_dlkm-fogona.bin
